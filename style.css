@@ -1,12 +1,12 @@
 :root {
-    --bg-color: #050505;
-    --card-bg: #111111;
-    --card-bg-gradient: linear-gradient(145deg, #181818 0%, #0a0a0a 100%);
-    --gold: #d4af37;
-    --gold-light: #f3e5ab;
-    --gold-dark: #aa8c2c;
-    --text-main: #ffffff;
-    --text-muted: #888888;
+    --bg-color: #013f32;
+    --card-bg: #025242;
+    --card-bg-gradient: linear-gradient(145deg, #025242 0%, #013f32 100%);
+    --gold: #c5a059;
+    --gold-light: #dfcfb3;
+    --gold-dark: #b38d45;
+    --text-main: #f4efe3;
+    --text-muted: rgba(244, 239, 227, 0.66);
     --font-family: 'Outfit', sans-serif;
 }
 
